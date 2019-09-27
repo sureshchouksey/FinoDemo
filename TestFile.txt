@@ -6,11 +6,5 @@ Juinagar
 Development Branch
 
 
-
-afdadfasdf
-New checkout
-
-Feature Branch
-
-adfadfadf
+remittance code
 
